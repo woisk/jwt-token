@@ -1,0 +1,21 @@
+{
+  "name": "woisk/jwt-token",
+  "description": "woisk php jwt token auth",
+  "homepage": "https://github.com/woisk/jwt-token",
+  "authors": [
+    {
+      "name": "Maple Grove",
+      "email": "bolelin@126.com"
+    }
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Woisk\\JwtToken\\": "src"
+    }
+  }
+}
