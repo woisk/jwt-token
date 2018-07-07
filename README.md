@@ -1,6 +1,6 @@
 
 ```bash
-composer require Woisk/JwtToken/jwt-token
+composer require woisk/jwt-token
 ```
 
 Example
